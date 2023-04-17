@@ -1,0 +1,15 @@
+C:\Users\arapt\Desktop\programming\misc\TaskRace\TaskRace\bin\Debug\net6.0\TaskRace.exe
+C:\Users\arapt\Desktop\programming\misc\TaskRace\TaskRace\bin\Debug\net6.0\TaskRace.deps.json
+C:\Users\arapt\Desktop\programming\misc\TaskRace\TaskRace\bin\Debug\net6.0\TaskRace.runtimeconfig.json
+C:\Users\arapt\Desktop\programming\misc\TaskRace\TaskRace\bin\Debug\net6.0\TaskRace.dll
+C:\Users\arapt\Desktop\programming\misc\TaskRace\TaskRace\bin\Debug\net6.0\TaskRace.pdb
+C:\Users\arapt\Desktop\programming\misc\TaskRace\TaskRace\obj\Debug\net6.0\TaskRace.csproj.AssemblyReference.cache
+C:\Users\arapt\Desktop\programming\misc\TaskRace\TaskRace\obj\Debug\net6.0\TaskRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arapt\Desktop\programming\misc\TaskRace\TaskRace\obj\Debug\net6.0\TaskRace.AssemblyInfoInputs.cache
+C:\Users\arapt\Desktop\programming\misc\TaskRace\TaskRace\obj\Debug\net6.0\TaskRace.AssemblyInfo.cs
+C:\Users\arapt\Desktop\programming\misc\TaskRace\TaskRace\obj\Debug\net6.0\TaskRace.csproj.CoreCompileInputs.cache
+C:\Users\arapt\Desktop\programming\misc\TaskRace\TaskRace\obj\Debug\net6.0\TaskRace.dll
+C:\Users\arapt\Desktop\programming\misc\TaskRace\TaskRace\obj\Debug\net6.0\refint\TaskRace.dll
+C:\Users\arapt\Desktop\programming\misc\TaskRace\TaskRace\obj\Debug\net6.0\TaskRace.pdb
+C:\Users\arapt\Desktop\programming\misc\TaskRace\TaskRace\obj\Debug\net6.0\TaskRace.genruntimeconfig.cache
+C:\Users\arapt\Desktop\programming\misc\TaskRace\TaskRace\obj\Debug\net6.0\ref\TaskRace.dll
